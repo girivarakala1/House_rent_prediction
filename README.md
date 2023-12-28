@@ -11,12 +11,19 @@ By leveraging predictive modeling, we aim to uncover relationships between these
 
 # -TOOLS used
 Python
+
 Jupyter Notebooks
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 XGBoost (for regression modeling)
 
 
